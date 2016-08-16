@@ -1,0 +1,92 @@
+html {
+	background-color:#F8DBFC
+
+	}
+
+
+
+}
+.intro{text-align: center; 
+    font-family: inherit 
+    color:#47264C;}
+
+.summary {border-radius: 5px;
+	border: 2px solid #6495ED;
+	background-color: #BCD2EE;
+	margin: auto;
+	text-align: center; 
+    font-family: inherit 
+    color:#47264C;
+    height: 400px;
+	width: 300px;
+    float:right}
+
+.preamble {
+    border-radius: 5px;
+	border: 2px solid #6495ED;
+	background-color: #065375;
+	margin: auto;
+	text-align: center;
+    font-family: inherit; 
+    color:#BFDBE8;
+    height: 400px;
+	width: 300px;
+    float:left;
+}    
+
+.explanation {
+    border-radius: 5px;
+	border: 2px solid #6495ED;
+	background-color: #A0EAC6;
+	margin: auto;
+	text-align: center;
+    font-family: inherit; 
+    color:#223842;
+    height: 400px;
+	width: 300px;
+    float:right;
+}
+
+.participation {  
+	border-radius: 5px;
+	border: 2px solid #6495ED;
+	background-color: #D10202;
+	margin: auto;
+	text-align: center;
+    font-family: inherit; 
+    color:#FFFFFF
+    height: 400px;
+	width: 300px;
+    float:left;
+}
+
+.benefits {  
+	border-radius: 5px;
+	border: 2px solid #6495ED;
+	background-color: #E5EF81;
+	margin: auto;
+	text-align: center;
+    font-family: inherit; 
+    color:#212308;
+    height: 400px;
+	width: 300px;
+    float:right;
+}
+
+.requirements {  
+	border-radius: 5px;
+	border: 2px solid #6495ED;
+	background-color: #C15B16;
+	margin: auto;
+	text-align: center;
+    font-family: inherit; 
+    color:#FFFFFF;
+    height: 900px;
+	width: 300px;
+    float:right;}
+
+
+
+
+
+
